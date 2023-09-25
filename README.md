@@ -1,6 +1,8 @@
 # AmadorUAVs_Code
 Code for AmadorUAVs Software Application.  
 
+The code runs on the command line
+
 boxpoint.py - code for first problem
 Usage: python boxpoints.py <input_file>
 
